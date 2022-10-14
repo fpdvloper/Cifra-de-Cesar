@@ -27,6 +27,7 @@ html {
     background-size: auto 120%;
     background-attachment: fixed, scroll;
     font-family: 'Multivac','Legion','sans-serif';
+    background-color: #ffffff00;
   }
   .main{
     width: 45%;
